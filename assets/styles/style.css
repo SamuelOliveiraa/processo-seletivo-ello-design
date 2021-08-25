@@ -129,6 +129,7 @@ header ul li a{
 }
 .card .cards .orange-ball::after{
     content: "✔";
+    color: white;
 }
 
 /* ABOUT */
